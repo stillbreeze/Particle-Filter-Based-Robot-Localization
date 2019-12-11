@@ -2,8 +2,8 @@
 
 -----------------------
 
-Localization in Wean Hall with 500 initial particles
+GIF showing Localization in Wean Hall with 500 initial particles
 
-<img src="wean_hall_localization.gif" width="600">
+<img src="wean_hall_localization.gif" width="500">
 
 -----------------------
