@@ -1,0 +1,9 @@
+{
+	"z_hit":1000,
+	"z_short":0.01,
+	"z_max":8183,
+	"z_rand":20000,
+	"lambda_short":0.01,
+	"sigma_hit":250,
+	"map_threshold":0.25
+}
